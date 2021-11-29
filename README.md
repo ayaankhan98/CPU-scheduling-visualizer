@@ -15,5 +15,7 @@ CPU Scheduling Algorithm Visualizer. Able to visualize
 
 
 ### Test Drive
+[Download](https://github.com/ayaankhan98/CPU-scheduling-visualizer/releases/download/algorithmVisualizer-0.0.1-SNAPSHOT.jar/algorithmVisualizer-0.0.1-SNAPSHOT.jar) the jar file and run using
+`java -jar filename.jar`
 - compile using `javac Application.java`
 - run `java Application`
